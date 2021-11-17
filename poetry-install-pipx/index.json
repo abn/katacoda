@@ -2,7 +2,7 @@
   "title": "Python Poetry Installation (pipx)",
   "description": "This scenario walks the user through how to install the latest or specific poetry versions pipx.",
   "difficulty": "Beginner",
-  "time": "5 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
