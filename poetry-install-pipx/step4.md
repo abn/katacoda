@@ -36,6 +36,9 @@ function poetry-use ()
 You can now use `poetry-use` to switch between versions of Poetry.
 
 `poetry-use 1.1.11`{{execute}}
+
 `poetry --version`{{execute}}
+
 `poetry-use 1.2.0a2`{{execute}}
+
 `poetry --version`{{execute}}
