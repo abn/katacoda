@@ -1,0 +1,47 @@
+{
+  "title": "Python Poetry Installation (pipx)",
+  "description": "This scenario walks the user through how to install the latest or specific poetry versions pipx.",
+  "difficulty": "Beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Install latest Poetry version",
+        "text": "step1.md"
+      },
+      {
+        "title": "Updating Poetry version",
+        "text": "step2.md"
+      },
+      {
+        "title": "Uninstalling Poetry",
+        "text": "step3.md"
+      },
+      {
+        "title": "Installing multiple versions of Poetry",
+        "text": "step4.md"
+      },
+      {
+        "title": "Using Poetry version from git",
+        "text": "step5.md"
+      },
+      {
+        "title": "using Poetry version from a pull-request",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
